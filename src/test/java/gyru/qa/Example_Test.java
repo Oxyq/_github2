@@ -10,7 +10,7 @@ public class Example_Test {
     }
 
     @Test
-    void example_test0() {
+    void example_test1() {
         Assertions.assertTrue(3>2);
     }
 }
