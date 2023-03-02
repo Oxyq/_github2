@@ -6,11 +6,11 @@ import org.junit.jupiter.api.Test;
 public class Example_Test {
     @Test
     void example_test0() {
-        Assertions.assertTrue(2>1); //0000
+        Assertions.assertTrue(2>=1); //0000
     }
 
     @Test
     void example_test1() {
-        Assertions.assertTrue(3>2); // 76767
+        Assertions.assertTrue(3>=2); // 767600
     }
 }
