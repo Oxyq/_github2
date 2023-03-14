@@ -18,7 +18,6 @@ public class TextBoxTests {
         Configuration.holdBrowserOpen = true;
     }
 
-
     @Test
     void fillFormTest() {
         String name ="Roma";
