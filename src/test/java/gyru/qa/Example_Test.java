@@ -3,8 +3,6 @@ package gyru.qa;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.Random;
-
 public class Example_Test {
 
     @Test
@@ -14,6 +12,6 @@ public class Example_Test {
 
     @Test
     void example_test1() {
-        Assertions.assertTrue(3>=2); // 767600
+        Assertions.assertTrue(3>=10); // 767600
     }
 }
